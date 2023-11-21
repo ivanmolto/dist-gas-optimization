@@ -1,4 +1,4 @@
-# REDUCE GAS USAGE OF DISTRIBUTE SMART CONTRACT
+# REDUCE GAS USAGE OF DISTRIBUTE SC
 
 The goal of this analysis and the code refactoring of the smart contract `Distribute.sol` is a reduction of the gas usage (gas optimization) and eliminate some security flaws.
 
